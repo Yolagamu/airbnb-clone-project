@@ -81,3 +81,39 @@ By completing this project, you will:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/YOUR-USERNAME/airbnb-clone-project.git
+
+   ## 🎨 UI/UX Design Planning
+
+### Design Goals
+- Create an **intuitive booking flow** that guides users smoothly from search to checkout  
+- Maintain **visual consistency** across all pages and components  
+- Ensure **fast loading times** to improve performance and user satisfaction  
+- Prioritize **mobile responsiveness** for accessibility across all devices  
+
+---
+
+### Key Features
+- **Property Search and Filtering** – Allow users to refine listings based on location, price, amenities, etc.  
+- **Detailed Property Viewing** – Provide complete property details, images, reviews, and availability.  
+- **Secure Checkout Process** – Streamlined and trustworthy payment and confirmation experience.  
+- **User Authentication** – Enable sign-up, login, and profile management for personalized bookings.  
+
+---
+
+### Primary Pages
+
+| **Page**                | **Description** |
+|--------------------------|-----------------|
+| **Property Listing View** | Grid display of available properties with filtering options for price, location, and amenities. |
+| **Listing Detailed View** | Shows complete property details including images, descriptions, reviews, ratings, and a booking form. |
+| **Simple Checkout View** | Streamlined payment process with booking confirmation and receipt display. |
+
+---
+
+### Importance of User-Friendly Design
+A **user-friendly design** is essential for a booking platform because it:  
+- Reduces **friction** in the booking process, encouraging users to complete reservations  
+- Increases **conversion rates** by making navigation and interaction straightforward  
+- Improves **customer satisfaction** with clear, responsive, and accessible interfaces  
+- Builds **trust** by presenting a professional, reliable, and easy-to-use system  
+
