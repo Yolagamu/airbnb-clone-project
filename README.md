@@ -117,3 +117,28 @@ A **user-friendly design** is essential for a booking platform because it:
 - Improves **customer satisfaction** with clear, responsive, and accessible interfaces  
 - Builds **trust** by presenting a professional, reliable, and easy-to-use system  
 
+### Figma Design Specifications
+
+**🎨 Color Styles**
+- **Primary**: `#FF5A5F`
+- **Secondary**: `#008489`
+- **Background**: `#FFFFFF`
+- **Text**: `#222222`
+- **Secondary Text**: `#717171`
+
+**🔤 Typography**
+- **Primary Font**: Circular  
+- **Headings**: Bold (700), 24px – 32px  
+- **Body Text**: Medium (500), 16px  
+- **Secondary Text**: Book (400), 14px  
+
+---
+
+### Importance of Identifying Design Properties
+When working with mockups in Figma, identifying **design properties** such as color styles and typography is crucial because it:  
+- Ensures **visual consistency** across all pages and components  
+- Saves time by using predefined **design tokens** instead of ad-hoc styles  
+- Enhances **collaboration** between designers and developers by providing a single source of truth  
+- Improves **scalability** of the design system when adding new features  
+- Guarantees **accessibility and readability** by standardizing font sizes, weights, and contrast  
+
