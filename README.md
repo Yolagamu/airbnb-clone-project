@@ -140,5 +140,52 @@ When working with mockups in Figma, identifying **design properties** such as co
 - Saves time by using predefined **design tokens** instead of ad-hoc styles  
 - Enhances **collaboration** between designers and developers by providing a single source of truth  
 - Improves **scalability** of the design system when adding new features  
-- Guarantees **accessibility and readability** by standardizing font sizes, weights, and contrast  
+- Guarantees **accessibility and readability** by standardizing font sizes, weights, and contrast
+
+- ## 👥 Project Roles and Responsibilities
+
+- **Project Manager**  
+  Oversees the project timeline, coordinates the team, manages deliverables, and ensures milestones are met.  
+
+- **Frontend Developers**  
+  Implement UI components, ensure responsive design, and translate design mockups into functional web pages.  
+
+- **Backend Developers**  
+  Build APIs, manage the database, and implement business logic for features such as bookings and user authentication.  
+
+- **Designers**  
+  Create mockups, maintain the design system, ensure high-quality UX, and provide design guidance for development.  
+
+- **QA/Testers**  
+  Write test cases, perform functional and integration testing, report bugs, and ensure that the application meets quality standards.  
+
+- **DevOps Engineers**  
+  Manage deployment, configure the CI/CD pipeline, monitor server infrastructure, and ensure smooth operation of the application in production.  
+
+- **Product Owner**  
+  Defines project requirements, prioritizes features, represents stakeholders, and ensures the team is building what users need.  
+
+- **Scrum Master**  
+  Facilitates agile processes, organizes meetings, removes blockers, and ensures that the team follows scrum practices effectively.  
+
+---
+
+## 🧩 UI Component Patterns
+
+### Planned Components
+
+**Navbar**  
+  - Includes logo, search bar, user navigation, and a responsive menu.  
+  - Designed to be reusable across all pages.  
+
+ **Property Card**  
+  - Displays property image, price, location, rating, and a favorite button.  
+  - Built for consistency and responsiveness within property listings.  
+
+ **Footer**  
+  - Contains site links, company information, social media links, and copyright information.  
+  - Ensures uniformity and accessibility across the site.  
+
+Each component will be designed for **reusability, consistency, and responsive design**, forming the building blocks of the AirBnB clone application.
+
 
